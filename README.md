@@ -1,37 +1,17 @@
-cloud-to-butt
-=============
+flow-to-room
+============
 
-Chrome extension that replaces occurrences of 'the cloud' with 'my butt'
+Chrome extension that replaces occurrences of 'flow' and 'flows' with 'room' and 'rooms', respectively.
 
-[Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
+Does not match inside strings so even references to things like workflows, or even Flowdock itself will remain intact.
 
-Note that there are forks of this extension that simply replace 'cloud' with 'butt'.
-In my personal opinion, that approach is too broad and it's less funny as a result, but it is clearly a very
-polarizing issue in the cloud-to-butt user community.  Forks are free to do whatever they like.  But officially, _this_
-extension replaces only the phrase described above. Thank you for your concern.
+[Direct download of crx file](https://github.com/BFGeorge9000/flow-to-room/blob/master/FlowToRoom.crx?raw=true)
 
-Screenshot Gallery
-------------------
+Shamelessly (and gratefully) forked from @panicsteve's [Cloud-to-Butt Chrome plugin](https://github.com/panicsteve/cloud-to-butt). Created in response to Flowdock users that don't want to refer to rooms as "flows".
 
-http://www.flickr.com/groups/cloud-to-butt/
+This is a quick and dirty spike; there is ample opportunity to improve its performance. For the time being, its functional, but not fast enough to consider "v1.0"
 
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
-
-Safari Version
---------------
-
-Can be found here: https://github.com/logancollins/cloud-to-butt-safari
-
-Firefox Version
----------------
-
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-mozilla
-
-
-Opera Version
----------------
-
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-opera
+In Chrome, choose Window > Extensions.  Drag FlowToRoom.crx into the page that appears.

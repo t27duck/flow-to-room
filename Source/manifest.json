@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt",
-	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
+	"name": "Flow to Room",
+	"version": "0.9",
+	"description": "Replaces the text 'Flow' with 'Room' - for Flowdock users that hate calling things 'flows'.  Shamelessly (and gratefully) based off panicsteve's work with Cloud to Butt.",
 	"content_scripts": 
 	[
 		{
